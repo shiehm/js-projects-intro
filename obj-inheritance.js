@@ -16,6 +16,7 @@ console.log(newProtoObj);
 // Another question
 
 let objKeys = Object.keys(newProtoObj);
+
 objKeys.forEach(function(key) {
   console.log(key);
 });
